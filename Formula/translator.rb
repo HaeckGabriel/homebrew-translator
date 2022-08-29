@@ -4,7 +4,7 @@
 class Translator < Formula
   desc "Russian-to-English Translator (Webscraper)"
   homepage "https://github.com/HaeckGabriel/translator"
-  url "https://github.com/HaeckGabriel/Translator/releases/downloads/0.1.0/Translator-mac.tar.gz"
+  url "https://github.com/HaeckGabriel/translator/releases/downloads/0.1.0/Translator-mac.tar.gz"
   sha256 "82cd8254a822ac71c07d638f88a2eb72425d827b4733b5a3db697b22902e97a1"
   version "0.1.0"
 
