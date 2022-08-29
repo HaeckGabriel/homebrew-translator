@@ -9,6 +9,6 @@ class Espanso < Formula
   version "0.1.0"
 
   def install
-    bin.install "Translator"
+    bin.install "translator"
   end
 end
